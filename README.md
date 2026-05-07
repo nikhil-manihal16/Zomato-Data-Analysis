@@ -5,7 +5,7 @@ Analyzed Zomato restaurant dataset using Python to uncover customer preferences,
 
 <h2>🛠️ Technologies Used</h2>
   <ul>
-  <li>Python</li>
+  <li><b>Programming Language:</b> Python</li>
   <li><b>Libraries:</b> Pandas, numpy, Matplotlib, Seaborn</li>
   <li><b>IDE:</b>Windsurf</li>
 </ul>
